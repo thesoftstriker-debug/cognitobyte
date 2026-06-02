@@ -46,7 +46,7 @@ export default function Contact() {
             </p>
 
             <div className="flex flex-col gap-5">
-              <a href="mailto:the.softstriker@gmail.com"
+              <a href="mailto:softstriker@gmail.com"
                 className="flex items-center gap-3 group">
                 <div className="w-10 h-10 bg-gray-900 border border-gray-800 rounded-lg flex items-center justify-center group-hover:border-violet-600 transition-colors">
                   <span>📧</span>
@@ -54,7 +54,7 @@ export default function Contact() {
                 <div>
                   <div className="text-xs text-gray-500 mb-0.5">Email</div>
                   <div className="text-sm text-gray-200 group-hover:text-violet-400 transition-colors">
-                    the.softstriker@gmail.com
+                    softstriker@gmail.com
                   </div>
                 </div>
               </a>
@@ -171,3 +171,4 @@ export default function Contact() {
     </section>
   )
 }
+
