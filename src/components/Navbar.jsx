@@ -5,7 +5,7 @@ const links = [
   { label: 'How It Works', id: 'how-it-works' },
   { label: 'Automations', id: 'automations' },
   { label: 'Tools', id: 'tools' },
-  { label: 'Process', id: 'process' },
+  { label: 'Demo', id: 'process' },
 ]
 
 export default function Navbar() {
